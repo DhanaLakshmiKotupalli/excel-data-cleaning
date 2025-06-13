@@ -84,9 +84,3 @@ The final cleaned datasets are ready for analysis, dashboard creation, or visual
 
 ```bash
 python data_cleaning.py
-
-Feedback / Questions?
-Feel free to connect with me on LinkedIn or open an issue in this repository.
-
-⭐ Acknowledgements
-Thanks to Kaggle for providing freely accessible datasets used in this task.
