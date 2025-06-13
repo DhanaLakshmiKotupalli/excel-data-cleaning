@@ -20,9 +20,9 @@ The original dataset was selected from Kaggle (e.g., Customer Personality Analys
 ##  Folder Structure
 data-cleaning-project/
 │
-├── excel-data-cleaning/
-│ ├── raw_data/
-│ │ └── raw_data.csv
+├── excel-data-cleaning/\a
+│ ├── raw_data/\a
+│ │ └── raw_data.csv\a
 │ ├── cleaned_data/
 │ │ └── cleaned_data.csv
 │ └── README.md
