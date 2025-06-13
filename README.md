@@ -17,28 +17,6 @@ The original dataset was selected from Kaggle (e.g., Customer Personality Analys
 
 ---
 
-##  Folder Structure
-data-cleaning-project/
-│
-├── excel-data-cleaning/\a
-│ ├── raw_data/\a
-│ │ └── raw_data.csv\a
-│ ├── cleaned_data/
-│ │ └── cleaned_data.csv
-│ └── README.md
-│
-├── python-data-cleaning/
-│ ├── raw_data/
-│ │ └── raw_data.csv
-│ ├── cleaned_data/
-│ │ └── cleaned_data.csv
-│ ├── code/
-│ │ └── data_cleaning.py
-│ └── README.md
-│
-└── main_README.md ← (You are here)
-
-
 ## Tasks Performed
 
 ### Excel Data Cleaning
